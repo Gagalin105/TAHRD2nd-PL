@@ -6,5 +6,6 @@
 ## **作業區**<br>
 [HW1](HW1：日常支出與平衡.ipynb)<br>
 [HW2](HW2：AI輔助分析日常支出與平衡.ipynb)<br>
-HW3<br>
+[HW3](HW3：球員得分紀錄.ipynb)<br>
+**HW3執行遇到colab和Streamlit都無法正常運作的問題，目前還在解決中**<br>
 [Hw4](HW4：爬蟲.ipynb)<br>
